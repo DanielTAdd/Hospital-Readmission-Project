@@ -11,4 +11,4 @@ Here is the link to the competition website: https://www.kaggle.com/competitions
 
 ![image](https://user-images.githubusercontent.com/96665362/211138496-516eb8b8-5d59-4ef5-b51b-bc0df160fc66.png)
 
-***Life is 10% what happens tou you...and 90% how you react to it***
+***Life is 10% what happens to you...and 90% how you react to it***
